@@ -1,0 +1,1 @@
+Customer Attachments are stored here
